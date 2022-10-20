@@ -1,2 +1,2 @@
-# udev-community
-Web platform for the CSE A Learning community.
+# BlankSpace-community
+Website for BlankSpace community
