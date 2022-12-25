@@ -1,2 +1,2 @@
-# BlankSpace-community
-Website for BlankSpace community
+# BlankSpace Website
+
